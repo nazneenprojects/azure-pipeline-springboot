@@ -1,0 +1,9 @@
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/sanity/ApplicationSanityCheck_ITT.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/integration/GetVersionStep.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/retry/RetryRule.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/acceptance/ApplicationE2E.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/retry/Retry.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/integration/CucumberRoot.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/integration/GetHealthStep.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/integration/CucumberIntegrationIT.java
+/home/zermatt/Documents/Java/azure-pipelines-main/src/test/java/com/dev/azuredevops/retry/RetryException.java
